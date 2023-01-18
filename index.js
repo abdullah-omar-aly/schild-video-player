@@ -459,7 +459,7 @@ class videoPlayer extends HTMLElement {
 }
 
 
-window.customElements.define('video-player', videoPlayer);
+window.customElements.define('schild-video-player', videoPlayer);
 
 
 
