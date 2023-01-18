@@ -4,6 +4,12 @@
 Video player web component using HTML Templates , Shadow Dom  and Custom Element 
 
 
+## Demo
+
+![App Screenshot](https://raw.githubusercontent.com/abdullah-omar-aly/schild-video-player/master/Demo.PNG)
+
+
+
 
 Installation
 
